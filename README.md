@@ -49,7 +49,7 @@ Twitter is a social network/"micro-blogging" platform. You must be registered to
 
 A "tweet" is a post, limited to 280 characters. Tweets can include media like photos or videos. Our clone will have limited media support.
 
-Every profile as a "feed". A feed is a series of tweets. A user's profile feed shows all of the tweets they've posted, plus all of the tweets they've shared.
+Every profile has a "feed". A feed is a series of tweets. A user's profile feed shows all of the tweets they've posted, plus all of the tweets they've shared.
 
 Users can follow each other. Unlike friends on facebook, following does not require mutual consent.
 
